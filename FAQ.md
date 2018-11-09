@@ -2,7 +2,7 @@
 
 The [SE Close Vote Questions Chat Room](https://chat.stackexchange.com/rooms/85306/se-code-review-close-questions-room) 
 is a group of like-minded people who want to make a difference in the CV queue, 
-reviewing, and clean-up efforts.
+reviewing, and clean-up efforts, at the [SE Code Review site](https://codereview.stackexchange.com/questions).
  
 # <a id="TOC"></a>Table Of Contents
 
