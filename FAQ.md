@@ -163,7 +163,7 @@ reviewing, and clean-up efforts, at the [SE Code Review site](https://codereview
  8. Reels in conversation if it gets out of hand.
  9. Moves messages or conversations to /dev/null (the trash room) if necessary.
 10. Moves handled moderation requests to the 
-    [SECRCVR Request Graveyard](https://chat.stackoverflow.com/rooms/90230).
+    [CRCQR Request Graveyard](hhttps://chat.stackexchange.com/rooms/86076/crcqr-graveyard).
 
 <h1 id="common-questions">Common Questions</h1>
 
