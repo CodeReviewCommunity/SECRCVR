@@ -15,7 +15,6 @@ reviewing, and clean-up efforts, at the [SE Code Review site](https://codereview
   * [What are the chat room rules?](#what-are-the-chat-room-rules)
   * [How and why do I need to format my cv-pls (and other requests)?](#how-and-why-do-i-need-to-format-my-cv-pls-and-other-requests)
     * [What Should Request Reasons Contain?](#what-should-request-reasons-contain)
-  * [What is Smoke Detector and how can I participate?](#what-is-smoke-detector-and-how-can-i-participate)
   * [You closed my question!](#you-closed-my-question)
   * [Can I request people to vote or flag on posts I find?](#can-i-request-people-to-vote-or-flag-on-posts-i-find)
   * [Who are the room owners?](#who-are-the-room-owners)
@@ -259,38 +258,10 @@ For request reasons, we have the following guidelines:
 * For `cv-pls` requests: **Including an actual close reason is highly recommended**, even if that's your custom reason (e.g. "Custom: Homework without attempt"). Including an actual close reason significantly increases the likelihood that your request will be acted upon by other users.
 * For `del-pls` requests: Indicate why the post should be deleted, which is commonly also the reason it was closed. If the post can only be delete-voted by users with >20k reputation (e.g. any answer), then it's helpful to indicate that (commonly with a `20k+` tag). It's also helpful to briefly indicate if the Roomba will, or will not, delete the question. The fact that the Roomba won't delete a question is a contributing factor to needing delete-votes. [Generally, unless it's urgent to delete a question, it's normal to allow the Roomba to delete the question rather than post a `del-pls` for it, if the Roomba will delete it in the relatively near future.]
 * If you are submitting a request about a post reported to the room by a bot (e.g. FireAlarm or SmokeDetector), or that post's question, then please indicate that by adding text similar to "(FireAlarm)" or "(SD report)" to the request reason.
-* If you are making a request about a post you encountered on the [New Answers To Old questions](http://stackoverflow.com/tools/new-answers-old-questions) page (NATO, in the [10k tools pages](http://stackoverflow.com/tools)), or that is otherwise quite old with a new answer, it is helpful to indicate that by including text similar to "(NATO)" in your request reason. While the last activity date is visible on the question page, including "(NATO)" in the request reason helps set people's expectations prior to visiting the question.
 * Additional factual information in the request reason is fine, particularly when it's there to help other users save time when evaluating the post, or to help them make the choice to click-through to the question/answer. Keep in mind that you're asking at least 4 other people to look at the post to evaluate it. If there's some short piece of information that reduces the amount of time others have to spend, or that indicates the request is easy to evaluate, including that information makes it much more likely for other people to handle your request.
   Examples:
-  * "No MCVE: no code"
-  * "Typo: see 5th line of 2nd code block: `foo` should be `bar`. Confirmed by OP in comments."
-
-
-<h2 id="what-is-smoke-detector-and-how-can-i-participate"><a id="whatIsSD"></a>What is Smoke Detector and how can I participate?</h2>
-
-The Smoke Detector (aka Smokey, or SD) is a chat-bot operated by the 
-[Charcoal team](https://charcoal-se.org/) and its 
-purpose is to find spam, abusive and low-quality posts. In the SECRCVR room only 
-Stack Overflow posts are reported. You can find detailed info about Smokey and 
-how you can interact with it [here](https://charcoal-se.org/smokey/).
-
-Because SECRCVR does not moderate users, the SD commands `!!/allspam` and `!!/reportuser` are not permitted in SECRCVR.
-
-<a id="smoke-detector-request-privileges"></a>To request SD privileges from the SECRCVR room ping any of the room owners. They
-will check your account for the following criteria:
-
-- <a id="smoke-detector-criteria"></a>Lurked for a while so you understand its capabilities.
-- Proven to know how to respond to reports.
-- Have a reasonable number of messages.
-- Have at least 1000 reputation.
- 
-We don't want to feed wrong information into Smokey or flag reported posts 
-incorrectly. Spam flags have a lot of impact on user accounts.
-
-To be clear, the Charcoal team operates from a [different room](https://chat.stackexchange.com/rooms/11540/charcoal-hq)
-to SECRCVR, and has different criteria for granting privileges in that room. If your
-account doesn't fit the criteria SECRCVR looks for, you may be able to get involved with
-SmokeDetector in that room.
+  * "Lacks concrete context: code dump without explanation what the code is purposed for"
+  * "Code not implemented: OP didn't post working code ready for reviewing, rather looks for enhancing their code with something that it doesn't do yet."
 
 <h2 id="you-closed-my-question">You closed my question!</h2>
 
@@ -309,9 +280,7 @@ to avoid any unnecessary drama:
  1. Inform the user about the reasons why this happened.
  2. Why the question is off-topic.
  3. If it can be improved and how.
- 4. Relevant pointers ([help center](https://stackoverflow.com/help/how-to-ask), 
-    [meta posts](https://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist), 
-    IDYB, etc.).
+ 4. Relevant pointers ([help center](https://codereview.stackexchange.com/help/asking).
 
 </a><a id="closed-my-Q-go-to-meta"></a><a id="cQGoToMeta">If the previous has not solved the issue, we will stop the discussion and redirect 
 you to Meta to have our actions scrutinized by somewhat independent community members.
